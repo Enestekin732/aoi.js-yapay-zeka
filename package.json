@@ -1,0 +1,11 @@
+{
+  "name": "yapay-zeka",
+  "version": "0.0.1",
+  "description": "wnerscode yapay zeka botu",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "wnersdev_102",
+  "license": "ISC"
+}
